@@ -10,7 +10,7 @@ The app presents challenging math questions, requiring users to provide their an
 To achieve this, I harnessed Apple's MNIST model, which recognizes handwritten digits.
 Moreover, I integrated PencilKit to offer users a canvas for drawing their responses.
 
-<img height="540px" src="https://github.com/rational-kunal/Netflix-Hotkeys/assets/28783605/c3a28f00-3e69-4672-b007-4b53e96c3fa7" />
+<img height="540px" width="269.5507px" src="https://github.com/rational-kunal/Netflix-Hotkeys/assets/28783605/c3a28f00-3e69-4672-b007-4b53e96c3fa7" />
 
 During my learning process, debugging the ML model posed a significant challenge.
 Initially, the model's accuracy was subpar.
